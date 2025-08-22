@@ -19,7 +19,7 @@ This project implements a **ToDoList Agent** using **LangGraph**, **Trustcall**,
 
 ```
 .
-├── todolist_agent.py      # Core agent logic
+├── main.py      # Core agent logic
 ├── utils.py               # Utility functions (Spy, tool info extraction)
 ├── schemas.py             # Pydantic schemas for Profile, ToDo, UpdateMemory
 ├── prompts.py             # System and tool instructions
